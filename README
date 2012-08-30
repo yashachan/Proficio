@@ -4,4 +4,8 @@ This is a relic/dead project that I am not maintaining and have not for many yea
 
 The original purpose was to be a full featured bot for deviantART's Messaging Network (dAmn) to primarily fill the need of #h3lp. It's a Zend Framework powered system.
 
-You are free to fork/modify/use for whatever purpose but I'm not accepting bug reports, questions or offering support. 
+You are free to fork/modify/use for whatever purpose but this is provided as is, that means:
+
+- No bug reports/issues
+- No questions/support
+- No pull requests
